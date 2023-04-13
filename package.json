@@ -1,0 +1,19 @@
+{
+    "name":"f55cal",
+    "version": "0.1.0",
+    "main": "f555calc",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/20501a05f5/aaaa"
+     },
+        "keywords": [
+        "calc",
+       "5f5-Calculator","calculator"
+        ],
+        "dependencies": {},
+       "engines": {
+        "node":"*"
+        }
+        
+        
+}
